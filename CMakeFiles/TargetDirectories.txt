@@ -1,0 +1,3 @@
+/home/mtom/coding-projects/pongraylib/CMakeFiles/MyProject.dir
+/home/mtom/coding-projects/pongraylib/CMakeFiles/edit_cache.dir
+/home/mtom/coding-projects/pongraylib/CMakeFiles/rebuild_cache.dir

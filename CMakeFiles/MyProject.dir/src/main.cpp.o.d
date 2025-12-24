@@ -1,7 +1,7 @@
 CMakeFiles/MyProject.dir/src/main.cpp.o: \
  /home/mtom/coding-projects/pongraylib/src/main.cpp \
- /usr/include/stdc-predef.h \
- /home/mtom/coding-projects/pongraylib/src/../include/main.h \
+ /usr/include/stdc-predef.h /usr/include/raylib.h \
+ /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/include/stdarg.h \
  /usr/include/c++/15.2.1/iostream \
  /usr/include/c++/15.2.1/bits/requires_hosted.h \
  /usr/include/c++/15.2.1/x86_64-pc-linux-gnu/bits/c++config.h \
@@ -20,7 +20,6 @@ CMakeFiles/MyProject.dir/src/main.cpp.o: \
  /usr/include/wchar.h /usr/include/bits/libc-header-start.h \
  /usr/include/bits/floatn.h /usr/include/bits/floatn-common.h \
  /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/include/stddef.h \
- /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/include/stdarg.h \
  /usr/include/bits/wchar.h /usr/include/bits/types/wint_t.h \
  /usr/include/bits/types/mbstate_t.h \
  /usr/include/bits/types/__mbstate_t.h /usr/include/bits/types/__FILE.h \

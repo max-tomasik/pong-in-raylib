@@ -67,10 +67,9 @@ add_executable(${PROJECT_NAME} ${SRC_FILES})
 # ---------------------------
 # Optional: Link external libraries
 # ---------------------------
-# target_link_libraries(${PROJECT_NAME} 
-#     some_library
-#     another_library
-# )
+target_link_libraries(${PROJECT_NAME} 
+    raylib
+)
 
 # ---------------------------
 # Optional: Compiler flags
